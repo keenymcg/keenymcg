@@ -33,7 +33,7 @@ Here are some of the projects I’ve worked on that showcase my skills. Feel fre
 - **Tech Stack**: Ruby, Rails, HTML, CSS
 
 ### 🎨 **My Coding Portfolio & Personal Business Sites**
-- **Description**: Crafted from scratch early in my coding career with just the basics are my [Coding Portfolio]([https://www.keenymcg.github.io/KM-Portfolio/](https://keenymcg.github.io/KM-Portfolio/), [Photography website](https://www.withkeenan.com/photography), and [Massage website](https://www.withkeenan.com/massage).
+- **Description**: Crafted from scratch early in my coding career with just the basics are my [Coding Portfolio](https://keenymcg.github.io/KM-Portfolio/), [Photography website](https://www.withkeenan.com/photography), and [Massage website](https://www.withkeenan.com/massage).
 - **Tech Stack**: raw HTML & CSS without the help of AI code-assistance.
 - **Skills Highlighted**: Foundational grasp and expert utility of pure HTML/CSS.
 
