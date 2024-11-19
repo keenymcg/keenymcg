@@ -58,4 +58,4 @@ Here are some of the projects I’ve worked on that showcase my skills. Feel fre
 ## 📫 How to Reach Me  
 - 📧 **Email**: keenan.mcg@gmail.com  
 - 🛠 **Portfolio**: [keenymcg.github.io/KM-Portfolio/](https://keenymcg.github.io/KM-Portfolio/)
-- 🌐 **LinkedIn**: [linkedin.com/in/keenanmcguckin/](www.linkedin.com/in/keenanmcguckin/)
+- 🌐 **LinkedIn**: [linkedin.com/in/keenanmcguckin/](https://www.linkedin.com/in/keenanmcguckin/)
