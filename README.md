@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 Here are some of the projects I’ve worked on that showcase my skills. Feel free to explore and get inspired! 😊
 
 ### 🛒  **Shopify Themes & Sites**
-- **Description**: As part of my work with Flourish Commerce, I have implemented Shopify theme designs/updates featuring pixel-perfect designs and intuitive user navigation for the following e-commerce sites: [The Absorption Company](https://www.absorbmore.com), [XMARK Fitness](https://xmarkfitness.com/), and [Bayou With Love Jewelry](https://bayouwithlove.com/).
+- **Description**: As part of my work with Flourish Commerce, I have implemented Shopify theme designs/updates featuring pixel-perfect designs and intuitive user navigation for some of the following e-commerce sites: [The Absorption Company](https://www.absorbmore.com), [XMARK Fitness](https://xmarkfitness.com/), and [Bayou With Love Jewelry](https://bayouwithlove.com/).
 - **Tech Stack**: Shopify Liquid/Theme Editor, HTML, SCSS, JavaScript, Figma
 - **Skills Highlighted**: UI/UX Design, Front-End Development, Shopify Customization, Conversion Optimization  
 
