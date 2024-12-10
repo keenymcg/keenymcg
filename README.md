@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## 🚀 About Me  
 - 🎓 **Education**: Bachelor of Arts in Film & Media Studies from UC Santa Barbara  
-- 📚 **Self-Driven Learning**: The Odin Project & Team Treehouse  
+- 📚 **Self-Driven Learning**: My coding skills are completely self-educated through The Odin Project & Team Treehouse, and through subsequent work experience as a Shopify Dev.
 - 🤝 Known for my **collaborative attitude** and **excellent communication skills**  
 
 ---
